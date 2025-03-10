@@ -1,0 +1,14 @@
+berserk==0.13.2
+certifi==2025.1.31
+charset-normalizer==3.4.1
+chess==1.11.2
+Deprecated==1.2.18
+idna==3.10
+ndjson==0.3.1
+python-dateutil==2.9.0.post0
+requests==2.32.3
+six==1.17.0
+tqdm==4.67.1
+typing_extensions==4.12.2
+urllib3==2.3.0
+wrapt==1.17.2
